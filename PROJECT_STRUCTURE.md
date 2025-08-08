@@ -16,9 +16,7 @@ WebWarden/
 ├── requirements.txt             # Python dependencies
 ├── setup.py                     # Package setup configuration
 ├── pyproject.toml               # Modern Python packaging configuration
-├── webwarden.py                 # Main entry point
-├── test_installation.py         # Installation verification script
-└── examples/                    # Example usage scripts (to be created)
+└── webwarden.py                 # Main entry point
 ```
 
 ## Module Descriptions
