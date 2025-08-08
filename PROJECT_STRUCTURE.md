@@ -64,10 +64,6 @@ Lists all Python dependencies with minimum versions.
 
 Comprehensive documentation for users.
 
-### `test_installation.py`
-
-Script to verify that the installation is working correctly.
-
 ## Entry Points
 
 The application can be run in two ways:
